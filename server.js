@@ -2,7 +2,7 @@ import CircularQueue from "./src/CircularQueue.js";
 // import axios from "https://cdn.skypack.dev/axios";
 import axios from "axios";
 
-const GEMINI_API_KEY = "AIzaSyBfYaQ5UEGh3lZvLZRoPpVekc6ekpw8nFA";
+const GEMINI_API_KEY = "";
 
 // Gemini 모델 리스트
 const geminiModels = [
